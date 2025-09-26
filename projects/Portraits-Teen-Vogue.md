@@ -6,6 +6,8 @@ description: |
 year: 2023
 images:
   - src: /assets/uploads/DSCF7867 copy.jpg
+    caption: By Lake
+  - {}
 date: 2023-11-14T10:33:12.776Z
 position: 0
 ---
