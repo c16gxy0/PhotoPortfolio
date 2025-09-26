@@ -14,6 +14,4 @@ date: 2023-11-14T10:33:12.776Z
 position: 0
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
+💛
