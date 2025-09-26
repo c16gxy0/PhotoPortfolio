@@ -14,18 +14,17 @@ metadata:
   site_title: Rachel Xueyan Gao
   site_subtitle_1: Image Portfolio
   site_subtitle_2: 'Phoenix, AZ'
-  site_description: |2
-     Rachel (Xueyan) Gao, is a versatile artist, who specializes in the art of photography, capturing memorable moments, and excels in the field of design.
+  site_description: >
+    Rachel (Xueyan) Gao, is a versatile artist, who specializes in the art of
+    photography, capturing memorable moments, and excels in the field of design.
   site_email: xueyangaophotography@gmail.com
   site_social_url: 'https://github.com/danurbanowicz/halide'
   site_icon_svg: /assets/uploads/favicon.svg
   site_icon_png: ''
   site_ga4_id: ''
   seo:
-    site_title: Halide - Jamstack portfolio theme
-    site_description: >-
-      A customizable, minimalist portfolio website designed for photographers
-      and still image creators.
+    site_title: Rachel Xueyan Gao Photo Portfolio
+    site_description: Photographer is Phoenix Arizona
     no_index: false
 theme:
   theme_layout:
