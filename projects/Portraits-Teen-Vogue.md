@@ -11,6 +11,8 @@ images:
   - src: /assets/uploads/DSCF7753 copy.jpg
     caption: Yellow Rose
 date: 2023-11-14T10:33:12.776Z
+seo:
+  description: Pregnancy photographer in Phoenix
 position: 0
 ---
 
