@@ -1,7 +1,8 @@
 ---
 draft: false
 title: Fashion shoot
-description: ''
+description: |
+  A collaboration with a fashion designer.
 year: 2019
 images:
   - src: /assets/uploads/2348d8e7-833c-4239-a317-2830d5d7dce6.jpg
@@ -15,4 +16,4 @@ images:
 date: 2023-11-14T10:14:33.896Z
 ---
 
-A collaboration with a fashion designer.
+All garments are handmade.
