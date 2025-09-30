@@ -11,8 +11,8 @@ images:
     caption: 'Women and John '
   - src: /assets/uploads/IMG_9902.jpg
     caption: Close up
-  - src: /assets/uploads/photo-1564146649407-e14cf75ec84d.avif
-    caption: Oooh
+  - src: /assets/uploads/IMG_9905.jpg
+    caption: Far
 date: 2023-11-09T18:04:14.662Z
 position: 2
 ---
