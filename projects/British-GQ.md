@@ -15,6 +15,4 @@ images:
 date: 2023-11-14T10:14:33.896Z
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
+A collaboration with a fashion designer.
