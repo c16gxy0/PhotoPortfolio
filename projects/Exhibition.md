@@ -17,6 +17,8 @@ images:
     caption: Title
   - src: /assets/uploads/IMG_9896.jpg
     caption: 无家可归
+  - src: /assets/uploads/Picture2.jpg
+    caption: Book 1
 date: 2023-11-09T18:04:14.662Z
 position: 2
 ---
