@@ -9,11 +9,10 @@ images:
     caption: Vase-Jing
   - src: /assets/uploads/IMG_9931.jpg
     caption: Grandma home
-  - src: /assets/uploads/photo-1599351545462-664be31dd5f0.avif
+  - src: /assets/uploads/IMG_9904.jpg
     caption: a caption
-date: '2023-11-10T13:02:11.245Z'
+date: 2023-11-10T13:02:11.245Z
 ---
-
 
 An additional fictitious project description.
 
