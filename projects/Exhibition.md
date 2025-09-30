@@ -9,10 +9,10 @@ images:
     caption: 'Man looking '
   - src: /assets/uploads/IMG_9947.jpg
     caption: 'Women and John '
-  - src: /assets/uploads/IMG_9902.jpg
-    caption: Close up
   - src: /assets/uploads/IMG_9905.jpg
     caption: Far
+  - src: /assets/uploads/IMG_9902.jpg
+    caption: Close up
   - src: /assets/uploads/IMG_9900.jpg
     caption: Title
   - src: /assets/uploads/IMG_9896.jpg
