@@ -12,6 +12,8 @@ images:
     caption: Yellow Rose
   - src: /assets/uploads/IMG_7187 copy.jpg
     caption: Portrait
+  - src: /assets/uploads/IMG_7023 copy.jpg
+    caption: 'Side '
 date: 2023-11-14T10:33:12.776Z
 seo:
   description: Pregnancy photographer in Phoenix
