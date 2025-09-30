@@ -1,6 +1,6 @@
 ---
 draft: false
-title: 'China, Memory'
+title: Memory
 description: |
   Looking at things I grew up with.
 year: 2019
