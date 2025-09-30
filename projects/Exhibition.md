@@ -15,8 +15,9 @@ images:
     caption: Far
   - src: /assets/uploads/IMG_9900.jpg
     caption: Title
-date: '2023-11-09T18:04:14.662Z'
+  - src: /assets/uploads/IMG_9896.jpg
+    caption: 无家可归
+date: 2023-11-09T18:04:14.662Z
 position: 2
 ---
-
 
