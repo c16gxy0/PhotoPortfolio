@@ -13,6 +13,8 @@ images:
     caption: Grandma home
   - src: /assets/uploads/IMG_9904.jpg
     caption: a caption
+  - src: /assets/uploads/IMG_9910.jpg
+    caption: 龙
 date: 2023-11-10T13:02:11.245Z
 ---
 
