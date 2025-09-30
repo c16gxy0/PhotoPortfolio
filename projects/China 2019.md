@@ -11,6 +11,7 @@ images:
     caption: Liuzhuang Qiao
   - src: /assets/uploads/IMG_0284.jpg
     caption: Pigeons
+  - src: /assets/uploads/IMG_0173.jpg
 date: 2023-11-14T10:26:09.471Z
 position: 3
 ---
