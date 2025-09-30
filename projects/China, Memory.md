@@ -11,6 +11,8 @@ images:
     caption: Grandma home
   - src: /assets/uploads/IMG_9904.jpg
     caption: a caption
+  - src: /assets/uploads/IMG_0018 copy.jpg
+    caption: Bear
 date: 2023-11-10T13:02:11.245Z
 ---
 
