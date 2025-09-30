@@ -21,6 +21,8 @@ images:
     caption: Book 1
   - src: /assets/uploads/Picture1.jpg
     caption: Book 2
+  - src: /assets/uploads/Picture4.jpg
+    caption: Book 3
 date: 2023-11-09T18:04:14.662Z
 position: 2
 ---
