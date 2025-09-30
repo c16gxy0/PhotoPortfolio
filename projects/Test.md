@@ -9,8 +9,8 @@ images:
     caption: 'Man looking '
   - src: /assets/uploads/IMG_9947.jpg
     caption: 'Women and John '
-  - src: /assets/uploads/photo-1687152818225-a30a047ce370.avif
-    caption: ddd
+  - src: /assets/uploads/IMG_9902.jpg
+    caption: Close up
   - src: /assets/uploads/photo-1564146649407-e14cf75ec84d.avif
     caption: Oooh
 date: 2023-11-09T18:04:14.662Z
