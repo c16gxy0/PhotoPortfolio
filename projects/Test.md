@@ -8,7 +8,7 @@ images:
   - src: /assets/uploads/IMG_9929.jpg
     caption: 'Man looking '
   - src: /assets/uploads/IMG_9947.jpg
-    caption: Women and John Fryer
+    caption: 'Women and John '
   - src: /assets/uploads/photo-1687152818225-a30a047ce370.avif
     caption: ddd
   - src: /assets/uploads/photo-1564146649407-e14cf75ec84d.avif
