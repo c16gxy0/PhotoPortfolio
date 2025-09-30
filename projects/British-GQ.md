@@ -8,8 +8,8 @@ images:
     caption: Gaze
   - src: /assets/uploads/324fafc5-c204-468f-af11-b7f1ab90c218.jpg
     caption: Gold
-  - src: /assets/uploads/photo-1697886991540-681440046194.avif
-    caption: Wheel of a car
+  - src: /assets/uploads/41d52aa5-7e1a-42c6-884e-bc69976e1a79.jpg
+    caption: Flower
 date: 2023-11-14T10:14:33.896Z
 ---
 
