@@ -3,7 +3,7 @@ draft: false
 title: 'China, Memory'
 description: |
   Looking at things I grew up with.
-year: 2023
+year: 2019
 images:
   - src: /assets/uploads/IMG_9358.jpg
     caption: Vase-Jing
@@ -16,3 +16,4 @@ images:
 date: 2023-11-10T13:02:11.245Z
 ---
 
+Both home and memory, present and past, a place where I belong and yet feel like a stranger.
