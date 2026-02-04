@@ -12,6 +12,8 @@ images:
     caption: Bird
   - src: /assets/uploads/IMG_3160.jpg
     caption: Belly
+  - src: /assets/uploads/IMG_0783.jpg
+    caption: string
 date: 2023-11-13T08:24:31.507Z
 ---
 
