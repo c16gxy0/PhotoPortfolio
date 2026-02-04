@@ -3,15 +3,11 @@ draft: false
 title: Still Lives II
 description: |
   A flower study taken for a special exhibition at the Soeur flagship store in Paris.
-year: 2021
 images:
   - src: /assets/uploads/IMG_3875.jpg
     caption: Fish
-  - src: /assets/uploads/photo-1600362339451-99fb9f2fd1cd.avif
-    caption: A flower close up
+  - src: /assets/uploads/IMG_2959.jpg
+    caption: Yellow
 date: 2023-11-13T08:24:31.507Z
 ---
 
-An additional fictitious project description.
-
-All images used in this demo are sourced from [Unsplash](https://unsplash.com/).
