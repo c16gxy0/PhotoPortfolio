@@ -8,6 +8,8 @@ images:
     caption: Fish
   - src: /assets/uploads/IMG_2959.jpg
     caption: Yellow
+  - src: /assets/uploads/IMG_1339.jpg
+    caption: Bird
 date: 2023-11-13T08:24:31.507Z
 ---
 
