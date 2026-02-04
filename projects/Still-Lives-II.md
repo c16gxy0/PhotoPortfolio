@@ -10,6 +10,8 @@ images:
     caption: Yellow
   - src: /assets/uploads/IMG_1339.jpg
     caption: Bird
+  - src: /assets/uploads/IMG_3160.jpg
+    caption: Belly
 date: 2023-11-13T08:24:31.507Z
 ---
 
