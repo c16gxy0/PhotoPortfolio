@@ -7,8 +7,8 @@ year: 2024
 images:
   - src: /assets/uploads/DSCF8317 copy.jpg
     caption: Connection
-  - src: /assets/uploads/premium_photo-1664457233806-e1477e52e2ab.avif
-    caption: Macro image
+  - src: /assets/uploads/DSCF8359.JPG
+    caption: Close
 date: 2023-11-10T09:12:06.264Z
 position: 0
 ---
