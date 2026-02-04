@@ -1,6 +1,6 @@
 ---
 draft: false
-title: Still Lives II
+title: Self-study
 description: |
   This collection is a self-study that maps my existence through the environment I encounter, and the intimate textures of my own body and surroundings.
 images:
