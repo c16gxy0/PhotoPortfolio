@@ -2,7 +2,7 @@
 draft: false
 title: Still Lives II
 description: |
-  A flower study taken for a special exhibition at the Soeur flagship store in Paris.
+  This collection is a self-study that maps my existence through the environment I encounter, and the intimate textures of my own body and surroundings.
 images:
   - src: /assets/uploads/IMG_3875.jpg
     caption: Fish
